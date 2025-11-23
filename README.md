@@ -1,8 +1,11 @@
-<div align="center">
+<h2 align="center">I'm Selin⭐️</h2>
 
-## I'm Selin⭐️
+<p align="center">
+  CS + Phil student @ UCL | I like building and maths (most of the time)
+</p>
 
-### CS + Phil student @ UCL | I like building and maths (most of the time)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sel1nabd&theme=github-dark-blue)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sel1nabd&theme=github-dark-blue" />
+  </a>
+</p>
