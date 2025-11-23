@@ -1,11 +1,8 @@
-<h2 align="center">I'm Selin⭐️</h2>
+<div align="center">
 
-<p align="center">
-  CS + Phil student @ UCL | I like building and maths (most of the time)
-</p>
+## I'm Selin  
+### CS + Phil student @ UCL | I like building and maths (most of the time)
 
-<p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sel1nabd&theme=github-dark-blue" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sel1nabd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
