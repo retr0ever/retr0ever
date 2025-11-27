@@ -7,7 +7,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,swift,ts,js,html,css,raspberrypi,flutter,haskell,react,nextjs,nodejs,django,tailwind,pytorch,fastapi,sqlite,firebase,supabase,git,github,vscode,figma,apple,latex,pycharm,threejs" />
 </p>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sel1nabd&theme=tokyonight&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
-
